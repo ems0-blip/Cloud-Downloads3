@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4407",
+  "folder": "Other__view_14050303151428_e7f613",
+  "base_name": "Other__view_14050303151428_e7f613.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ems0-blip/Cloud-Downloads3/releases/tag/co-releases-v1-4407",
+  "files": [
+    {
+      "name": "Other__view_14050303151428_e7f613.bin",
+      "url": "https://github.com/ems0-blip/Cloud-Downloads3/releases/download/co-releases-v1-4407/Other__view_14050303151428_e7f613.bin",
+      "api_url": "https://api.github.com/repos/ems0-blip/Cloud-Downloads3/releases/assets/428648294",
+      "id": 428648294,
+      "size": 114624,
+      "download_count": 0
+    }
+  ]
+}
